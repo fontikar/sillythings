@@ -34,3 +34,5 @@ Enjoy!
 
 ## Python
 - [Badgey](https://github.com/PythonCoderUnicorn/badgey) a Star Trek companion for your travels in the terminal by @PythonCoderUnicorn
+
+Artwork by [@allison_horst](https://allisonhorst.com/allison-horst)
