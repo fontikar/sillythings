@@ -14,6 +14,9 @@ Feel free to submit a PR to add more silly things!
 Enjoy!
 
 ## R
+- [aperol](https://github.com/EllaKaye/aperol) - garbled praise by @EllaKaye and @kbodwin
+- [Leveraging gmailR and Google Books API](https://www.pipinghotdata.com/posts/2021-01-11-from-gmailr-to-the-google-books-api/) by @shannonpileggi
+- [Matt Dray's blog](https://rostrum.blog/) is full silly, fun projects! @matt-dray
 - [OregonTrail](https://github.com/tslumley/OregonTrail) game by @tslumley
 - [Load code in R on the fly without compilation/installation](https://yumechi.jp/en/blog/2024/dynamically-load-assembler-code-in-r/) @Yumechi
 - [Chernoff periodic table with smileys](https://gist.github.com/baptiste/d4abfa8a6c095d659f8879af5ad9531b) @baptiste
