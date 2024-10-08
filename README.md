@@ -1,6 +1,8 @@
-# Silly things
+# Silly things 
 
 This is a list of silly things created by fellow data scientists.
+
+<img src="community.png" width="50%" align="right">
 
 This was sparked by my own experience of creating [something silly](https://github.com/fontikar/ohwhaley) because I wanted to learn 
 how to write an R package and wanted to see what other silly things other folks have created.
