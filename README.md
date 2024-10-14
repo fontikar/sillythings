@@ -32,8 +32,12 @@ Enjoy!
 - [Ishihara test in R](https://github.com/njtierney/ishihara) @njtierney
 - [Dad jokes and Chuck Norris jokes](https://github.com/tanho63/joker) @tanho63
 - [DnD alignment charts](https://github.com/aftonsteps/ggalignment) @aftonsteps
+- [Let R recommend a film](https://github.com/nvietto/movienight) @nvietto
+- [Puns from Ellie's 'No Pun Intended: Volume Too' from 'The Last of Us'](https://github.com/nvietto/nopunintended) @nvietto
 - [Play pacman in R](https://github.com/coolbutuseless/pacman
 ) @coolbutuseless
 
 ## Python
 - [Badgey](https://github.com/PythonCoderUnicorn/badgey) a Star Trek companion for your travels in the terminal by @PythonCoderUnicorn
+
+Artwork by [@allison_horst](https://allisonhorst.com/allison-horst)
