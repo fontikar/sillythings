@@ -25,12 +25,15 @@ Enjoy!
 - [Radar plots but spider-like](https://gist.github.com/baptiste/b5ecd606afc51b0a0e77edc6e3e5b531) @baptiste
 - [Whimsical ggplots](https://teunbrand.github.io/elementalist/) @teubrand
 - [Personalise your R experience](https://jennyrichmond.netlify.app/blog/customise-your-r-experience/) @jenrichmond
+- [Quotes from the show "Good Place"](https://github.com/adam-gruer/goodshirt) @adaem-gruer
 - [beepr but creepy](https://github.com/jcken95/creepr) @jcken95
 - [beepr with dwarves!](https://mccarthy-m-g.github.io/rockandstone/) @mccarthy-m-g
 - [Mapping telemetry of Tesla drive](https://github.com/adrianco/rs-tesla-telemetry) @adrianco
 - [Ishihara test in R](https://github.com/njtierney/ishihara) @njtierney
 - [Dad jokes and Chuck Norris jokes](https://github.com/tanho63/joker) @tanho63
 - [DnD alignment charts](https://github.com/aftonsteps/ggalignment) @aftonsteps
+- [Play pacman in R](https://github.com/coolbutuseless/pacman
+) @coolbutuseless
 
 ## Python
 - [Badgey](https://github.com/PythonCoderUnicorn/badgey) a Star Trek companion for your travels in the terminal by @PythonCoderUnicorn
