@@ -36,6 +36,7 @@ Enjoy!
 - [Puns from Ellie's 'No Pun Intended: Volume Too' from 'The Last of Us'](https://github.com/nvietto/nopunintended) @nvietto
 - [Play pacman in R](https://github.com/coolbutuseless/pacman
 ) @coolbutuseless
+- [Minesweeper but COVID-19](https://github.com/katerobsau/coronaSweeper) @katerobsau
 
 ## Python
 - [Badgey](https://github.com/PythonCoderUnicorn/badgey) a Star Trek companion for your travels in the terminal by @PythonCoderUnicorn
